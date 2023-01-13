@@ -1,0 +1,15 @@
+.book-now {
+    position: relative;
+    top: 5px;
+    /* width: 50px; */
+    /* height: 100px; */
+    background-color: rgb(224, 255, 49)(139, 52, 52)(139, 52, 52);
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes example {
+    from {background-color: rgb(207, 207, 51);}
+    to {background-color: rgb(15, 88, 197);}
+  }
